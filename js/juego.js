@@ -568,7 +568,7 @@ const sonidoOffOn = () => {
         let s = document.querySelector("#icono-sonido");
         s.setAttribute("class", "fas fa-volume-up");
         let divAudio = document.querySelector("#audio-fondo");
-        divAudio.innerHTML = "<audio src='Musica/inicio.mp3' autoplay type='audio/mpeg'></audio>"
+        divAudio.innerHTML = "<audio src='Musica/moneda.mp3' autoplay type='audio/mpeg'></audio>"
         flagSonido = true;
     }
 }
