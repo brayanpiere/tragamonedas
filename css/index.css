@@ -1,0 +1,31 @@
+#nombre-mb{
+    width: 100%;
+    text-align: center;
+}
+
+#btcomenzar-mb{
+    width: 100%;
+
+}
+
+#titulo-mb{
+    width: 100%;
+    text-align: center;
+}
+
+#img-mb{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+#maquina-1, #maquina-2{
+    width: 100%;
+    height: 80%;
+}
+
+#min-m1,#min-m2,#max-m1,#max-m2,#jugar,#jugar-2{
+    width: 100%;
+}
